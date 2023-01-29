@@ -15,15 +15,15 @@
                                 echo '<strong>AMARELAAAAAA</strong> <br></p>';
                                 echo 'UM DEUS, UM LOUCO, UM FEITICEIRO, ELE É DEMAIS.... ROBSON <b>VAAAAAAAAAAMONDE!!!</b> <br>';
                                 echo '<img src="https://media.licdn.com/dms/image/C4D03AQHJxJi3uaGB7Q/profile-displayphoto-shrink_400_400/0/1517490437856?e=1680134400&v=beta&t=qkaanGUuONUCfW_UH8sVd0tn7QNUQF3oH0buNCXAj5E" alt="">';
-                    
-                        ?>
+                                
+                                echo '<H2>SITES PROIBIDOS</H2>';
+                                echo '<strong>1:</strong>';
+                                echo '<p><a href="youtube.com/BoraParaPratica">deus.com</a></p> <br>';
+                                echo '<strong>2:</strong>';
+                                echo '<p><a href="youtube.com/ProfessorRamos">cocacola.com</a></p> <br>';
+                                echo '<strong>3:</strong>';
+                                echo '<p><a href="term.ooo">alberteinstein.com</a></p> <br>';
+                                ?>
                 </body>
-                <H2>SITES PROIBIDOS</H2>;
-                <strong>1:</strong>
-                <p><a href="youtube.com/BoraParaPratica">deus.com</a></p> <br>
-                <strong>2:</strong>
-                <p><a href="youtube.com/ProfessorRamos">cocacola.com</a></p> <br>
-                <strong>3:</strong>
-                <p><a href="term.ooo">alberteinstein.com</a></p> <br>
             
         </html>
