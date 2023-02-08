@@ -1,0 +1,16 @@
+HTML / ATRIBUTOS GLOBAIS:
+class = para aplicar estilo css, classificar conteudo, e para acessar no js
+contenteditable = ele recebe true ou false, então ele pode editar conteúdod a página(mas quando salvar a página, ele perderá a modificação)
+data-x = utilizado no js, pode expandir que tipos de atributos que pode colocar no html para mais tarde fazer lógica com o JS
+hidden = esconder uma tag
+id = usado apenas 1 por Tag para identificação, para também mais tarde usar no Java Script e css.
+style = serve para mudar cor de fonte, de fundo, etc..; normalmente não se usa "style" dentro da Tag, mas sim em arquivos externos.         
+tabindex = quando for navegar na sua página com a tecla TAB, ele vai selecionar de acordo com a ordem que você colocou no seu atributo
+title = definir um TITULO da sua TAG
+
+HTML / ANINHAMENTO HIERARQUIA = colocar uma tag dentro da outra 
+(Aninhamento em HTML significa colocar uma tag dentro da outra, porém não é qualquer tag que podemos colocar dentro de outra, existe uma hierarquia por trás delas)
+
+<em></em> = DEIXAR PALAVRA EM ITÁLICO
+
+
