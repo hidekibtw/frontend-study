@@ -1,1 +1,1 @@
-# html-test of hidekas
+front-end study of hidekas
