@@ -13,4 +13,30 @@ HTML / ANINHAMENTO HIERARQUIA = colocar uma tag dentro da outra
 
 <em></em> = DEIXAR PALAVRA EM ITÁLICO
 
+&lt; = <
+&gt; = >
+&amp; = &
+&quot; = "
+&apos; = '
 
+SEMÂNTICOS: para que haja significado e também uma melhor leitura (dicas: se fazer perguntas do q fazer)
+
+TITULOS/PARAGRAFOS: 
+h1 = titulo
+h2 = sub-titulo
+h3 = sub-titulo do h2
+href = link
+
+LISTA:
+li = faz tag de lista (SEMPRE FAZER DENTRO DO OL OU UL)
+li*5 = faz varias tag de lista
+ol = lista ordenada (lista com numeração)
+ul = lista não ordenada (lista com pontinho)
+Citações:
+<blackquote>: aspas que serve para citar algo bem grande que uma pessoa citou, etc..
+<code></code> — mostra que é um código
+<cite> = citando como um link
+<q> = usados para citações curtas que não precisam de parágrafos ou quebra de linha
+
+ABREVIAÇÃO:
+<abbr> title= usasse dentro de um texto para explicar abreviadamente a entender oq é a palavra mencionada  
