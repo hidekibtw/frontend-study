@@ -40,3 +40,54 @@ Citações:
 
 ABREVIAÇÃO:
 <abbr> title= usasse dentro de um texto para explicar abreviadamente a entender oq é a palavra mencionada  
+
+DETALHES DE CONTATO:
+<addreess>: A tag usada para apenas colocar detalhes de contato é a tag <address></address>, não endereço em si, mas por exemplo o autor da página.
+
+LISTA DE DESCRIÇÃO: 
+<dl>
+    <dt>Hypertext</dt>
+         <dd>É um hiper texto com possibilidades...</dd>
+<dl>    
+
+REPRESENTAÇÃO DE CODIGOS:
+<code></code> = muda a cor do conteúdo para representar código.
+<pre></pre> = tag para criar um bloco de código, mantém os espaços em branco.
+ex: 
+<pre>
+    <code>
+        &lt;
+    </code>
+</pre>
+
+ELEMENTOS GENÉRICOS:
+<div></div> — tag usada para agrupar conteúdo.
+<span></span> — tag usada para agrupar texto, em uma ideia mais de linha.
+
+HYPERLINKS:
+
+<a href=""></a> = colocar link e conteúdo
+      mailto: colocar email
+<a href="" download></a> = fazer o download da pagina ou do link
+<a href="" target="_blank"></a> = faz com que abra o link em uma nova guia.
+<a href="">Website</a></li> = vai para um website de acordo com o link
+<a href="">Email</a> = vai para o email mencionado nas aspas duplas
+<a href="">Telefone</a> = liga para o telefone
+<ul>
+    <li><a href="#about">Sobre mim</a></li>
+    <li><a href="#history">História</a></li>
+    <li><a href="#works">Trabalhos</a></li>
+</ul>
+<h1 id="about">Sobre mim</h1>
+Lorem ipsum dolor sit amet consectetur adipisicing elith
+<h2 id="history">História</h2>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore Adipisci nostru
+<h2 id="works">Trabalhos</h2>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci nostrum aspernatur rerum
+
+Se clicarmos em qualquer um deles, será adicionado uma # e o nome do respectivo fragmento, mas como faremos a ligação entre o fragmento e a sua respectiva parte? adicionamos o atributo global id="" e colocamos o nome do fragmento dentro dele, o que faz com que sejamos levados até onde está o id na página.
+
+
+
+
+ 
