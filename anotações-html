@@ -87,7 +87,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci nostrum aspern
 
 Se clicarmos em qualquer um deles, será adicionado uma # e o nome do respectivo fragmento, mas como faremos a ligação entre o fragmento e a sua respectiva parte? adicionamos o atributo global id="" e colocamos o nome do fragmento dentro dele, o que faz com que sejamos levados até onde está o id na página.
 
+Hypertext: Qualquer coisa pode ser colocado, até mesmo outras tags, e mais de uma.
 
+href="../conteudo.html" ARQUIVO NA PASTA ANTERIOR <br>
 
+href="../outros/conteudo.html" ARQUIVO NA PASTA OUTROS, QUE ESTÁ NA PASTA ANTERIOR <br>
+
+href="nomediretorio/conteudo.html" ARQUIVO NA MESMA PASTA <br>
+
+href="./nomediretorio/conteudo.html" ABRIR ARQUIVO NO DIRETÓRIO RAIZ <br>
 
  
